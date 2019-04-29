@@ -18,7 +18,7 @@
  */
 
 metadata {
-    definition (name: "Aqara 2 Button Wired Wall Switch (No neutral)", namespace: "simic", author: "simic") {
+    definition (name: "Aqara 2 Button Wired Wall Switch", namespace: "simic", author: "simic") {
         capability "Actuator"
         capability "Configuration"
         capability "Refresh"
